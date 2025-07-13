@@ -88,6 +88,5 @@ The integration of this pipeline could potentially:
 
 **However, due to resource constraints (hardware, time, and storage), I was unable to fully integrate and benchmark this advanced pipeline within my current project.**
 
-If provided with sufficient computational resources and time, we believe that combining my current approach with the SoccerNet/sn-gamestate framework would yield even better results and more robust player re-identification in football videos.
+If provided with sufficient computational resources and time, I believe that combining my current approach with the SoccerNet/sn-gamestate framework would yield even better results and more robust player re-identification in football videos.
 
-For more information on SoccerNet Game State Reconstruction, see their [GitHub repository](https://github.com/SoccerNet/sn-gamestate). 
